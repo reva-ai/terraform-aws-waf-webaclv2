@@ -30,3 +30,10 @@ override.tf.json
 # example: *tfplan*
 
 *.terraform.lock.hcl*
+
+.vscode
+/.idea
+.DS_Store
+*/.DS_Store
+*.md
+*/*.md
